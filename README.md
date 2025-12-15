@@ -4,3 +4,4 @@
 Vipecoded with gemini-cli . Made after heavy discusion with AI. After then node.js is no longer needed,
 
 Shop can be downloaded and has full functionality fron home without any server. Need an email-client to work.
+![Screenshot Webshot](screenshot/Screenshot 2025-12-15 at 17-53-32 Einfacher Webshop.png)
