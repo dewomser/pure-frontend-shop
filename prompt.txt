@@ -1,0 +1,2 @@
+Baue mir einen einfachen Webshop für 10 Artikel mit Foto und Auswahl der Stückzahl. Benutze mur html, css, Javascript (kein Framework), Cookies und SessionID. Es gibt nur eine Adresse das ist die Versandadresse. Es gibt nur die Zahlungsarten Vorkasse und Nachnahme. Verschicke jeweils eine Mail an den Kunden und den Shopbesitzer mit der Rechnung als Bestellungsabschluss
+Kannst du die  Bestellanforderung als Email(mailto) hinzufügen

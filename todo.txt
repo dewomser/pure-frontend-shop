@@ -1,0 +1,8 @@
+1. [completed] Erstelle die grundlegende Projektstruktur (`index.html`, `style.css`, `script.js`) und einen `images`-Ordner.
+2. [completed] Definiere die Produktdaten in `script.js` und erstelle Platzhalterbilder.
+3. [completed] Implementiere die Logik zur dynamischen Anzeige der Produkte auf der Webseite.
+4. [completed] Entwickle die Warenkorb-Funktionalität (Hinzufügen, Mengen ändern, Gesamtpreis berechnen).
+5. [completed] Erstelle das HTML für das Checkout-Formular (Adresse, E-Mail, Zahlungsart).
+6. [completed] Implementiere die 'Bestellung abschließen'-Funktion, die den `mailto:`-Link mit den Bestelldaten als Text-Rechnung generiert und aufruft.
+7. [completed] Gestalte die Webseite mit grundlegendem CSS für eine ansprechende Optik.
+8. [completed] Füge die SessionID-Logik hinzu (Erstellung und Speicherung im Cookie).
