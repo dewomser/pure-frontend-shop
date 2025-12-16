@@ -1,7 +1,7 @@
-# testshop
-### Tiny Webhop clientside  in html css and  Javascript  No Serversidescript needed
+# Frontend Shop
+### Tiny Webhop clientside in html css and Javascript. No Serversidescript needed
 
-Vipecoded with gemini-cli . Made after heavy discussion with AI. After then node.js is no longer needed,
-
-Shop can be downloaded and has full functionality fron home without any server. Need an email-client to work.
+Vibecoded from gemini-cli . Made after heavy discussion with AI. After then node.js is no longer needed,
+Nothing to be installed. Just copy it at any place you like. Even at your PC without any Server.
+Needs an email-client to work.
 ![Screenshot Webshot](screenshot/Webshop.png)
